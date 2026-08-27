@@ -1,0 +1,8 @@
+{
+    "repos": [
+        "safeinsights/management-app",
+        "safeinsights/iac",
+        "safeinsights/encryption",
+        "safeinsights/qa-review"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "pr-triage",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "triage": "node scripts/triage.ts",
+        "stats": "node scripts/stats.ts",
+        "test": "node --test scripts/lib.test.ts scripts/stats-lib.test.ts"
+    }
+}

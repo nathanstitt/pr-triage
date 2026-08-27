@@ -1,0 +1,7 @@
+# Per-user runtime caches. Both regenerate on the next run; neither belongs in a
+# shared repo, and stats-history.json holds per-author PR metrics for real people.
+state.json
+stats-history.json
+
+node_modules/
+pnpm-lock.yaml
